@@ -6,5 +6,3 @@ hahaha
 Git is a free software
 New test.
 Source tree.
-Hello world.
-nihap
